@@ -156,6 +156,7 @@ In addition to that, it is possible to share tasks with your friends or roommate
 ### 3.3 Usability
 
 We plan to design the user interface as simple and intuitive as possible.
+
 Every user should be able to utilize our App without instructions.
 
 ### 3.4 Reliability
