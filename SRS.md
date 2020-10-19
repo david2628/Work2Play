@@ -167,7 +167,7 @@
 #### 3.5.4 Resource utilization
 - Not applicable 
 ### 3.6 Supportability
-- Not applicable 
+- TBD
 ### 3.7 Design Constraints
 - TBD
 #### 3.7.1 Development tools
