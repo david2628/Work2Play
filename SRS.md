@@ -154,7 +154,10 @@ In addition to that, it is possible to share tasks with your friends or roommate
 #### 3.2.5 Statistics
 - TBD
 ### 3.3 Usability
-- TBD
+
+We plan to design the user interface as simple and intuitive as possible.
+Every user should be able to utilize our App without instructions.
+
 ### 3.4 Reliability
 - TBD
 #### 3.4.1 Availability
