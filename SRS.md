@@ -195,6 +195,7 @@
 ### 3.11 Licensing Requirements
 
 ### 3.12 Legal, Copyright and other Notices
+TBD
 
 ### 3.13 Applicable Standards
 
