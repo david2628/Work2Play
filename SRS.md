@@ -118,6 +118,13 @@
 
 ### 2.1 Vision
 
+With Work2Play you are able to create a To Do list to schedule tasks of your every day life. For each completed tasks you can earn credits. You can use these credits to reward yourself by „buying“ free time for activities you enjoy.
+
+If you have assignments with a deadline or repeating events you could plan them in a calendar and set a date and time to get an early reminder.
+
+In addition to that, it is possible to share tasks with your friends or roommates to work on projects simultaneously.
+
+
 ## 2.2 Product perspective
 
 ### 2.3 User characteristics
