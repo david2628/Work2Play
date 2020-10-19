@@ -88,7 +88,7 @@
 
 ### 1.2 Scope
 
-The document should be used for internal purposes only.
+The document is designed for internal purposes only.
 
 ### 1.3 Definitions, Acronyms and Abbreviations
 
