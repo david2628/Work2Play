@@ -117,6 +117,14 @@
 ## 2. Overall Description
 
 ### 2.1 Vision
+    
+Do you too need a motivation for your daily tasks? We do! So we thought of an Android-App that you can use to motivate yourself by earning free time while finishing tasks.
+
+With Work2Play you are able to create a To Do list to schedule tasks of your every day life. For each completed tasks you can earn credits. You can use these credits to reward yourself by „buying“ free time for activities you enjoy.
+
+If you have assignments with a deadline or repeating events you could plan them in a calendar and set a date and time to get an early reminder.
+
+In addition to that, it is possible to share tasks with your friends or roommates to work on projects simultaneously.
 
 ## 2.2 Product perspective
 
