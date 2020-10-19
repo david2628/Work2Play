@@ -118,12 +118,6 @@
 
 ### 2.1 Vision
 
-With Work2Play you are able to create a To Do list to schedule tasks of your every day life. For each completed tasks you can earn credits. You can use these credits to reward yourself by „buying“ free time for activities you enjoy.
-
-If you have assignments with a deadline or repeating events you could plan them in a calendar and set a date and time to get an early reminder.
-
-In addition to that, it is possible to share tasks with your friends or roommates to work on projects simultaneously.
-
 ## 2.2 Product perspective
 
 ### 2.3 User characteristics
@@ -133,76 +127,77 @@ In addition to that, it is possible to share tasks with your friends or roommate
 ## 3. Specific Requirements
 
 ### 3.1 Functionality – Data Backend
-
+-   TBD
 #### 3.1.1 Read data given over API endpoints
-
+-   TBD
 #### 3.1.2 Parse data
-
+-   TBD
 #### 3.1.3 Provide data
-
+- TBD
 ### 3.2 Functionality – User Interface
-
+- TBD
 #### 3.2.1 User system
-
+- TBD
 #### 3.2.3 Flashcard boxes
-
+- TBD
 #### 3.2.4 Flashcards
-
+- TBD
 #### 3.2.5 Statistics
-
+- TBD
 ### 3.3 Usability
-
+- TBD
 ### 3.4 Reliability
-
+- TBD
 #### 3.4.1 Availability
-
+- TBD
 #### 3.4.2 MTBF, MTTR
-
+-TBD
 #### 3.4.3 Accuracy
-
+- TBD
 #### 3.4.4 Bug classes
-
+- TBD
 ### 3.5 Performance
-
+- Not applicable 
 #### 3.5.1 Response time
-
+- Not applicable 
 #### 3.5.2 Throughput
-
+- Not applicable 
 #### 3.5.3 Capacity
-
+- Not applicable 
 #### 3.5.4 Resource utilization
-
+- Not applicable 
 ### 3.6 Supportability
-
+- Not applicable 
 ### 3.7 Design Constraints
-
+- TBD
 #### 3.7.1 Development tools
-
+- TBD
 #### 3.7.2 Spring Boot
-
+- TBD
 #### 3.7.3 ReactJS
-
+- TBD
 #### 3.7.4 Supported Platforms
-
+- TBD
 ### 3.8 Online User Documentation and Help System Requirements
-
+- TBD
 ### 3.9 Purchased Components
-
+- TBD
 ### 3.10 Interfaces
-
+- TBD
 #### 3.10.1 User Interfaces
-
+- TBD
 #### 3.10.2 Hardware Interfaces
-
+- TBD
 #### 3.10.3 Software Interfaces
-
+- TBD
 #### 3.10.4 Communications Interfaces
-
+- TBD
 ### 3.11 Licensing Requirements
-
+- TBD
 ### 3.12 Legal, Copyright and other Notices
-TBD
+- TBD
 
 ### 3.13 Applicable Standards
-
+- Not applicable 
 ## 4. Supporting Information
+- TBD
