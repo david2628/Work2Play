@@ -83,15 +83,13 @@
     -   [4. Supporting Information](#4-supporting-information)
 
 ## 1. Introduction
+
+### 1.1 Purpose
 This SRS describes all specifications for **"Work2Gether"**. It will be an App for mobile usage. "Work2Play" allows
 users to manage their Tasks with ease and reward themselfes with freetime activities. Also they should be able to share their Tasks with roommates and other people.
 "Work2Play" will be explained. Furthermore reliability, reaction speed and other important
 characteristics of this project will be specified. This includes design and architectural decisions regarding optimization of
 these criteria as well.
-
-### 1.1 Purpose
-
-h
 
 ### 1.2 Scope
 
