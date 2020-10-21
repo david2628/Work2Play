@@ -10,14 +10,6 @@ This use case allows users to list all items which are currently in the shopping
 
 ## 1.3 Screenshot
 
-### Empty Shopping List
-![Shopping List without items](../Screenshots/shopping_list_no_items_screenshot.png)
-### Shopping List with items
-![Shopping List with items](../Screenshots/shopping_list_screenshot_items.png)
-### Shopping List selected items
-![Shopping List selected items](../Screenshots/shopping_list_screenshot_selected.png)
-### Shopping List sort items dialog
-![Shopping List sort items dialog](../Screenshots/shopping_list_screenshot_sort.png)
 
 # 2. Flow of Events
 
