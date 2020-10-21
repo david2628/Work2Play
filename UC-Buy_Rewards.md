@@ -1,14 +1,15 @@
 # Use-Case Specification: Buy Rewards
 
-# 1. Shopping List
+# 1. Buy Rewards
 
 ## 1.1 Brief Description
-This use case allows users to list all items which are currently in the shopping list. A item has a title and may contain information the number of items and who the product shall be bought for. Bought items shall be removed from the list. Furthermore the user can sort the items regarding their attributes.
+This use case allows users to 
 
 ## 1.2 Mockup
 
+### Reward List
 
-## 1.3 Screenshot
+### Buy Reward
 
 
 # 2. Flow of Events
@@ -29,11 +30,14 @@ n/a
 n/a
 
 # 4. Preconditions
-
+The user has already done some tasks and earned some coins.
 
 # 5. Postconditions
 
-### 5.1 Save changes / Sync with server
+### 5.1 Buy Reward
+After a reward is buyed the user returns to the Reward List.
+
 
 
 # 6. Function Points
+n/a
