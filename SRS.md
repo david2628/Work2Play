@@ -146,6 +146,10 @@ In addition to that, it is possible to share tasks with your friends or roommate
 -   TBD
 #### 3.1.3 Share Task
 - TBD
+#### 3.1.4 Create Group
+-TBD
+#### 3.1.5 buy reward
+- TBD
 ### 3.2 Functionality – User Interface
 - TBD
 #### 3.2.1 User system
