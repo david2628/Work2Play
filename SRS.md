@@ -112,7 +112,7 @@ The document is designed for internal purposes only.
 
 | Title                                                                                                 | Date       |
 | ----------------------------------------------------------------------------------------------------- | ---------- |
-| [Blog](https://work2playtogether.wordpress.com/)                                                      | 17/10/2018 |
+| [Blog](https://work2playtogether.wordpress.com/blog/)                                                      | 17/10/2018 |
 | [GitHub](https://github.com/david2628/Work2Play/)                                                     | 17/10/2018 |
 | [Use Case Diagram](https://github.com/david2628/Work2Play/blob/main/Work2Play-UsecaseDiagram.svg) | 21/10/2018 |
 
