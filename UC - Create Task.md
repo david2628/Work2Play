@@ -5,10 +5,10 @@
 ## 1.1 Brief Description
 This use case allows users to list all items which are currently in the shopping list. A item has a title and may contain information the number of items and who the product shall be bought for. Bought items shall be removed from the list. Furthermore the user can sort the items regarding their attributes.
 
-## 1.2 Mockup
 
 
-## 1.3 Screenshot
+
+## 1.2 Mockups
 
 
 # 2. Flow of Events
