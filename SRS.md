@@ -140,11 +140,11 @@ In addition to that, it is possible to share tasks with your friends or roommate
 - TBD
 ### 3.1 Functionality – Data Backend
 -   TBD
-#### 3.1.1 Read data given over API endpoints
+#### 3.1.1 Create Task
 -   TBD
-#### 3.1.2 Parse data
+#### 3.1.2 Create identity
 -   TBD
-#### 3.1.3 Provide data
+#### 3.1.3 Share Task
 - TBD
 ### 3.2 Functionality – User Interface
 - TBD
