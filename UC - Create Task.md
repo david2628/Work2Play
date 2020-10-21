@@ -37,10 +37,15 @@ n/a
 
 # 4. Preconditions
 
+The app must be open.
 
 # 5. Postconditions
 
-### 5.1 Save changes / Sync with server
-
+### 5.1 Create Task
+After a task is created the user automatically returns to the Task List and the new task appers.
+### 5.2 Edit Task
+After editing a task the user automatically returns to the Task List and the updated task is shown.
+### 5.3 Delete Task
+After deleting a task the user automatically returns to the Task List and the deleted is removed.
 
 # 6. Function Points
