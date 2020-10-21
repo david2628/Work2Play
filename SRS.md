@@ -83,7 +83,6 @@
     -   [4. Supporting Information](#4-supporting-information)
 
 ## 1. Introduction
-
 ### 1.1 Purpose
 This SRS describes all specifications for **"Work2Gether"**. It will be an App for mobile usage. "Work2Play" allows
 users to manage their Tasks with ease and reward themselfes with freetime activities. Also they should be able to share their Tasks with roommates and other people.
@@ -120,17 +119,16 @@ The document is designed for internal purposes only.
 | [Use Case Diagram](https://github.com/phoenixfeder/fc-com/blob/master/FlashCardCommunityUseCases.png) | 21/10/2018 |
 
 ### 1.5 Overview
+The next chapters are about our vision, the product specifications and licensing.
 
 ## 2. Overall Description
 
 ### 2.1 Vision
-
 With Work2Play you are able to create a To Do list to schedule tasks of your every day life. For each completed tasks you can earn credits. You can use these credits to reward yourself by „buying“ free time for activities you enjoy.
 
 If you have assignments with a deadline or repeating events you could plan them in a calendar and set a date and time to get an early reminder.
 
 In addition to that, it is possible to share tasks with your friends or roommates to work on projects simultaneously.
-
 
 ## 2.2 Product perspective
 
