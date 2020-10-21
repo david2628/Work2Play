@@ -169,15 +169,15 @@ Every user should be able to utilize our App without instructions.
 #### 3.4.4 Bug classes
 - TBD
 ### 3.5 Performance
-- Not applicable 
+- TBD
 #### 3.5.1 Response time
-- Not applicable 
+- TBD 
 #### 3.5.2 Throughput
-- Not applicable 
+- TBD
 #### 3.5.3 Capacity
-- Not applicable 
+- TBD
 #### 3.5.4 Resource utilization
-- Not applicable 
+- TBD
 ### 3.6 Supportability
 - TBD
 ### 3.7 Design Constraints
@@ -208,8 +208,7 @@ Every user should be able to utilize our App without instructions.
 - TBD
 ### 3.12 Legal, Copyright and other Notices
 - TBD
-
 ### 3.13 Applicable Standards
-- Not applicable 
+- TBD
 ## 4. Supporting Information
 - TBD
