@@ -1,4 +1,4 @@
-# Use-Case Specification: Create Task
+# Use-Case Specification: Buy Rewards
 
 # 1. Shopping List
 
