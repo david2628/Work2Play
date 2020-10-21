@@ -27,16 +27,16 @@
 
         -   [3.1 Functionality – Data Backend](#31-functionality--data-backend)
 
-            -   [3.1.1 Read data given over API endpoints](#311-read-data-given-over-api-endpoints)
-            -   [3.1.2 Parse data](#312-parse-data)
-            -   [3.1.3 Provide data](#313-provide-data)
+            -   [3.1.1 Create Task](#311-create-task)
+            -   [3.1.2 Create Identity](#312-create-identity)
+            -   [3.1.3 Share Task](#313-share-task)
+            -   [3.1.4 Create Group](#314-create-group)
+            -   [3.1.5 Buy Reward](#315-buy-reward)
 
         -   [3.2 Functionality – User Interface](#32-functionality--user-interface)
 
-            -   [3.2.1 User system](#321-user-system)
-            -   [3.2.3 Flashcard boxes](#323-flashcard-boxes)
-            -   [3.2.4 Flashcards](#324-flashcards)
-            -   [3.2.5 Statistics](#325-statistics)
+            -   [3.2.1 User system](#321-user-system9
+            -   [3.2.2 Statistics](#325-statistics)
 
         -   [3.3 Usability](#33-usability)
 
@@ -112,9 +112,9 @@ The document is designed for internal purposes only.
 
 | Title                                                                                                 | Date       |
 | ----------------------------------------------------------------------------------------------------- | ---------- |
-| [Blog](https://work2playtogether.wordpress.com/blog/)                                                      | 17/10/2018 |
-| [GitHub](https://github.com/david2628/Work2Play/)                                                     | 17/10/2018 |
-| [Use Case Diagram](https://github.com/david2628/Work2Play/blob/main/Work2Play-UsecaseDiagram.svg) | 21/10/2018 |
+| [Blog](https://work2playtogether.wordpress.com/blog/)                                                      | 21/10/2020 |
+| [GitHub](https://github.com/david2628/Work2Play/)                                                     | 21/10/2020 |
+| [Use Case Diagram](https://github.com/david2628/Work2Play/blob/main/Work2Play-UsecaseDiagram.svg) | 21/10/2020 |
 
 ### 1.5 Overview
 The next chapters are about our vision, the product specifications and licensing.
@@ -152,11 +152,7 @@ In addition to that, it is possible to share tasks with your friends or roommate
 - TBD
 #### 3.2.1 User system
 - TBD
-#### 3.2.3 Flashcard boxes
-- TBD
-#### 3.2.4 Flashcards
-- TBD
-#### 3.2.5 Statistics
+#### 3.2.2 Statistics
 - TBD
 ### 3.3 Usability
 
