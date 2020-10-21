@@ -37,8 +37,3 @@ n/a
 
 
 # 6. Function Points
-To calculate function points, we used the tool on [http://groups.umd.umich.edu](http://groups.umd.umich.edu/cis/course.des/cis375/projects/fp99/main.html).
-
-For this use case we set a score of *20* function points. It took 790min to implement this use case.
-
-![Function Points](../FunctionPoints/ShoppingList.png)
