@@ -137,7 +137,7 @@ In addition to that, it is possible to share tasks with your friends or roommate
 ### 2.4 Dependencies
 
 ## 3. Specific Requirements
-
+- TBD
 ### 3.1 Functionality – Data Backend
 -   TBD
 #### 3.1.1 Read data given over API endpoints
