@@ -23,7 +23,7 @@ This use case allows users to list all items which are currently in the shopping
 
 ### Activity Diagram
 
-![Activity Diagram](Crud_Create_Task.png)
+![Activity Diagram](AC_Crud_Create_Task.png)
 
 ### .feature File
 
