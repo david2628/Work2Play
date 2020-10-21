@@ -10,13 +10,13 @@ This use case allows users to list all tasks, create tasks, edit tasks and delet
 
 ## 1.2 Mockups
 ### Task List
-![](UC - Start Screen.png)
+![](UC-Start_Screen.png)
 ### Create Task
-![](UC - Add Task.png)
+![](UC-Add_Task.png)
 ### Edit Task
-![](UC - Edit Task.png)
+![](UC-Edit_Task.png)
 ### Delete Task
-![](UC - Delete Task.png)
+![](UC-Delete_Task.png)
 
 
 
