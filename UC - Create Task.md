@@ -17,6 +17,7 @@ This use case allows users to list all items which are currently in the shopping
 
 ### Activity Diagram
 
+![AD_CRUD Journal](Crud_Create_Task.png)
 
 ### .feature File
 
