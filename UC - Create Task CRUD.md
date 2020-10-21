@@ -1,6 +1,6 @@
 # Use-Case Specification: Create Task
 
-# 1. Shopping List
+# 1. Create Task
 
 ## 1.1 Brief Description
 This use case allows users to list all tasks, create tasks, edit tasks and delete tasks. So it describes the creation, reading, updating and deleting of Tasks (CRUD).
@@ -49,3 +49,4 @@ After editing a task the user automatically returns to the Task List and the upd
 After deleting a task the user automatically returns to the Task List and the deleted is removed.
 
 # 6. Function Points
+n/a
