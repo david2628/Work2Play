@@ -112,11 +112,9 @@ The document is designed for internal purposes only.
 
 | Title                                                                                                 | Date       |
 | ----------------------------------------------------------------------------------------------------- | ---------- |
-| [Blog](https://flashcardcommunity.wordpress.com/)                                                     | 17/10/2018 |
-| [GitHub](https://github.com/phoenixfeder/fc-com/)                                                     | 17/10/2018 |
-| [Spring Boot](https://spring.io/projects/spring-boot)                                                 | 19/10/2018 |
-| [ReactJS](https://reactjs.org/)                                                                       | 19/10/2018 |
-| [Use Case Diagram](https://github.com/phoenixfeder/fc-com/blob/master/FlashCardCommunityUseCases.png) | 21/10/2018 |
+| [Blog](https://work2playtogether.wordpress.com/)                                                      | 17/10/2018 |
+| [GitHub](https://github.com/david2628/Work2Play/)                                                     | 17/10/2018 |
+| [Use Case Diagram](https://github.com/david2628/Work2Play/blob/main/Work2Play-UsecaseDiagram.svg) | 21/10/2018 |
 
 ### 1.5 Overview
 The next chapters are about our vision, the product specifications and licensing.
