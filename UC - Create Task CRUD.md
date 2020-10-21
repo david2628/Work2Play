@@ -25,9 +25,6 @@ This use case allows users to list all tasks, create tasks, edit tasks and delet
 
 ![Activity Diagram](AC_Crud_Create_Task.png)
 
-### .feature File
-
-
 
 ## 2.2 Alternative Flows
 n/a
