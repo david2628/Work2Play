@@ -10,13 +10,13 @@ This use case allows users to list all tasks, create tasks, edit tasks and delet
 
 ## 1.2 Mockups
 ### Task List
-![](UC-Start_Screen.png)
+![](PNGs/UC-Start_Screen.png)
 ### Create Task
-![](UC-Add_Task.png)
+![](PNGs/UC-Add_Task.png)
 ### Edit Task
-![](UC-Edit_Task.png)
+![](PNGs/UC-Edit_Task.png)
 ### Delete Task
-![](UC-Delete_Task.png)
+![](PNGs/UC-Delete_Task.png)
 
 
 
@@ -26,7 +26,7 @@ This use case allows users to list all tasks, create tasks, edit tasks and delet
 
 ### Activity Diagram
 
-![Activity Diagram](AC_Crud_Create_Task.png)
+![Activity Diagram](PNGs/AC_Crud_Create_Task.png)
 
 
 ## 2.2 Alternative Flows
