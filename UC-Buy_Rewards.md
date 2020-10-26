@@ -8,9 +8,9 @@ This use case allows users to
 ## 1.2 Mockup
 
 ### Reward List
-
+![](UC-Reward_List.png)
 ### Buy Reward
-
+![](UC-Buy_Reward.png)
 
 # 2. Flow of Events
 
