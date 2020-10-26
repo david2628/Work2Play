@@ -127,6 +127,8 @@ In addition to that, it is possible to share tasks with your friends or roommate
 
 ## 2.2 Product perspective
 
+![](UCD.png)
+
 ### 2.3 User characteristics
 
 ### 2.4 Dependencies
