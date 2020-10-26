@@ -8,16 +8,16 @@ This use case allows users to buy Rewards for their earned coins.
 ## 1.2 Mockup
 
 ### Reward List
-![](UC-Reward_List.png)
+![](PNGs/UC-Reward_List.png)
 ### Buy Reward
-![](UC-Buy_Reward.png)
+![](PNGs/UC-Buy_Reward.png)
 
 # 2. Flow of Events
 
 ## 2.1 Basic Flow
 
 ### Activity Diagram
-![](AC_Buy_Rewards.png)
+![](PNGs/AC_Buy_Rewards.png)
 
 ### .feature File
 
