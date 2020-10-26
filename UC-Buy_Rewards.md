@@ -21,7 +21,7 @@ This use case allows users to buy Rewards for their earned coins.
 
 ### .feature File
 
-
+tbd
 
 ## 2.2 Alternative Flows
 n/a
