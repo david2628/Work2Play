@@ -35,7 +35,7 @@
 
         -   [3.2 Functionality – User Interface](#32-functionality--user-interface)
 
-            -   [3.2.1 User system](#321-user-system9
+            -   [3.2.1 User system](#321-user-system)
             -   [3.2.2 Statistics](#325-statistics)
 
         -   [3.3 Usability](#33-usability)
@@ -59,9 +59,7 @@
         -   [3.7 Design Constraints](#37-design-constraints)
 
             -   [3.7.1 Development tools](#371-development-tools)
-            -   [3.7.2 Spring Boot](#372-spring-boot)
-            -   [3.7.3 ReactJS](#373-reactjs)
-            -   [3.7.4 Supported Platforms](#374-supported-platforms)
+            -   [3.7.2 Supported Platforms](#374-supported-platforms)
 
         -   [3.8 Online User Documentation and Help System Requirements](#38-online-user-documentation-and-help-system-requirements)
 
@@ -70,9 +68,8 @@
         -   [3.10 Interfaces](#310-interfaces)
 
             -   [3.10.1 User Interfaces](#3101-user-interfaces)
-            -   [3.10.2 Hardware Interfaces](#3102-hardware-interfaces)
-            -   [3.10.3 Software Interfaces](#3103-software-interfaces)
-            -   [3.10.4 Communications Interfaces](#3104-communications-interfaces)
+            -   [3.10.2 Software Interfaces](#3103-software-interfaces)
+            -   [3.10.3 Communications Interfaces](#3104-communications-interfaces)
 
         -   [3.11 Licensing Requirements](#311-licensing-requirements)
 
@@ -185,12 +182,10 @@ Every user should be able to utilize our App without instructions.
 - TBD
 #### 3.7.1 Development tools
 - TBD
-#### 3.7.2 Spring Boot
-- TBD
-#### 3.7.3 ReactJS
-- TBD
-#### 3.7.4 Supported Platforms
-- TBD
+#### 3.7.2 Supported Platforms
+
+The App will only availible for Android.
+
 ### 3.8 Online User Documentation and Help System Requirements
 - TBD
 ### 3.9 Purchased Components
@@ -199,9 +194,7 @@ Every user should be able to utilize our App without instructions.
 - TBD
 #### 3.10.1 User Interfaces
 - TBD
-#### 3.10.2 Hardware Interfaces
-- TBD
-#### 3.10.3 Software Interfaces
+#### 3.10.2 Software Interfaces
 - TBD
 #### 3.10.4 Communications Interfaces
 - TBD
