@@ -136,7 +136,10 @@ In addition to that, it is possible to share tasks with your friends or roommate
 ### 3.1 Functionality – Data Backend
 -   TBD
 #### 3.1.1 Create Task
--   TBD
+
+Use-Case Specification:
+https://github.com/david2628/Work2Play/blob/main/UC-Create_Task_CRUD.md
+
 #### 3.1.2 Create identity
 -   TBD
 #### 3.1.3 Share Task
@@ -144,7 +147,10 @@ In addition to that, it is possible to share tasks with your friends or roommate
 #### 3.1.4 Create Group
 -TBD
 #### 3.1.5 buy reward
-- TBD
+
+Use-Case Specification:
+https://github.com/david2628/Work2Play/blob/main/UC-Buy_Rewards.md
+
 ### 3.2 Functionality – User Interface
 - TBD
 #### 3.2.1 User system
