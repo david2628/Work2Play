@@ -3,7 +3,7 @@
 # 1. Buy Rewards
 
 ## 1.1 Brief Description
-This use case allows users to 
+This use case allows users to buy Rewards for their earned coins.
 
 ## 1.2 Mockup
 
@@ -17,7 +17,7 @@ This use case allows users to
 ## 2.1 Basic Flow
 
 ### Activity Diagram
-
+![](AC_Buy_Rewards.png)
 
 ### .feature File
 
