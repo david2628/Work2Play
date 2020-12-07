@@ -7,15 +7,12 @@ This use case allows users to buy Rewards for their earned coins.
 
 ## 1.2 Mockup
 
-### Reward List
-![](PNGs/UC-Reward_List.png)
-
-
 # 2. Flow of Events
 
 ## 2.1 Basic Flow
 
 ### Activity Diagram
+![](PNGs/AC_Add_Reward.png)
 
 ### .feature File
 
