@@ -12,7 +12,7 @@ This use case allows users to buy Rewards for their earned coins.
 ## 2.1 Basic Flow
 
 ### Activity Diagram
-![](PNGs/AC_Add_Reward.png)
+![](ACs/AC_Add_Reward.png)
 
 ### .feature File
 
