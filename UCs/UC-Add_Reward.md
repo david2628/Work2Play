@@ -1,9 +1,9 @@
-# Use-Case Specification: Finish Task
+# Use-Case Specification: Add Reward
 
 # 1. Buy Rewards
 
 ## 1.1 Brief Description
-This use case allows users to buy Rewards for their earned coins.
+In this use case the User can add his own Rewards and credit them at his own judgement. Set Rewards will be remain saved even after the App is restarted.
 
 ## 1.2 Mockup
 
