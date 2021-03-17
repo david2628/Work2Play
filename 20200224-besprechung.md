@@ -58,9 +58,9 @@ Titel, Coins(auf und ab), dealine(standartsortierung)
 - nach Abschließen nicht mehr anzeigen [Löschung  nach begrenztem Zeitraum oder maximaler anzahl an datensätzen (evt 30tage)]
 - wiederholende Tasks tauchen wieder auf nach Abschließen (nicht die Beschreibung löschen)
 
-##Habits
-  -Progress Bar mit Fortschritt der Habits mit 0/7 oder 4/7 drauf
-  -ausprobieren ob Titel drüber oder nebendran
+## Habits
+- Progress Bar mit Fortschritt der Habits mit 0/7 oder 4/7 drauf
+- ausprobieren ob Titel drüber oder nebendran
 **kurz klicken**
 - direkt in Bearbeitungsmodus
 - dort auch löschbar
