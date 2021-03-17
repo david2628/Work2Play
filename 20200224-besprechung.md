@@ -41,7 +41,7 @@
     (evt Tasks mit naher Deadline einfärben)
     sortierung nach Deadline??? ohne Deadline nach ganz unten
 
--zwei Dropdowns:
+- zwei Dropdowns:
 einzelne Projekte und alle Projekte.
 
 Sortierung:
@@ -66,8 +66,8 @@ Titel, Coins(auf und ab), dealine(standartsortierung)
 - dort auch löschbar
 
 **lang halten**
--löschen
--abschließen
+- löschen
+- abschließen
 - beim löschen popup und nachfragen
 
 
