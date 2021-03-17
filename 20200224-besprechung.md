@@ -41,6 +41,12 @@
     (evt Tasks mit naher Deadline einfärben)
     sortierung nach Deadline??? ohne Deadline nach ganz unten
 
+-zwei Dropdowns:
+einzelne Projekte und alle Projekte.
+
+Sortierung:
+Titel, Coins(auf und ab), dealine(standartsortierung)
+
 **lang halten: extramenu(dropDown):**
 - Löschen(datensatz entfernen)
 - Abschließen(datensatz reduzieren auf Titel und Coins)
@@ -51,6 +57,22 @@
 - beim löschen popup und nachfragen
 - nach Abschließen nicht mehr anzeigen [Löschung  nach begrenztem Zeitraum oder maximaler anzahl an datensätzen (evt 30tage)]
 - wiederholende Tasks tauchen wieder auf nach Abschließen (nicht die Beschreibung löschen)
+
+##Habits
+  -Progress Bar mit Fortschritt der Habits mit 0/7 oder 4/7 drauf
+  -ausprobieren ob Titel drüber oder nebendran
+**kurz klicken**
+- direkt in Bearbeitungsmodus
+- dort auch löschbar
+
+**lang halten**
+-löschen
+-abschließen
+- beim löschen popup und nachfragen
+
+
+
+
 
 
 ## Klassen:
@@ -73,3 +95,9 @@
   - Titel
   - Geteilten
   -  Mitglieder
+
+**Habits**
+  -Titel
+  -Wie oft pro Woche
+  -Coins für einmalige Erledigung
+  -Coins wenn alle erledigt
