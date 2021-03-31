@@ -1,6 +1,6 @@
-# Use-Case Specification: Create Task
+# Use-Case Specification: Add Task
 
-# 1. Create Task
+# 1. Add Task
 
 ## 1.1 Brief Description
 This use case allows users to list all tasks, create tasks, edit tasks and delete tasks. So it describes the creation, reading, updating and deleting of Tasks (CRUD).
@@ -26,7 +26,7 @@ This use case allows users to list all tasks, create tasks, edit tasks and delet
 
 ### Activity Diagram
 
-![Activity Diagram](ACs/AC_Crud_Create_Task.png)
+![Activity Diagram](ACs/AC_Add_Task.png)
 
 ### .feature File
 
