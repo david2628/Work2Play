@@ -21,7 +21,7 @@ This use case allows users to buy Rewards for their earned coins.
 
 ### .feature File
 
-![.feature File](PNGs/ff_Buy_Rewards.png)
+![.feature File](../PNGs/ff_Buy_Rewards.png)
 
 ## 2.2 Alternative Flows
 n/a
