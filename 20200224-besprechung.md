@@ -59,16 +59,17 @@ Titel, Coins(auf und ab), dealine(standartsortierung)
 - wiederholende Tasks tauchen wieder auf nach Abschließen (nicht die Beschreibung löschen)
 
 ### Habits
-- Progress Bar mit Fortschritt der Habits mit 0/7 oder 4/7 drauf
-- ausprobieren ob Titel drüber oder nebendran
-**kurz klicken**
-- direkt in Bearbeitungsmodus
-- dort auch löschbar
+- **allgemein**
+  - Progress Bar mit Fortschritt der Habits mit 0/7 oder 4/7 drauf
+  - ausprobieren ob Titel drüber oder nebendran
+- **kurz klicken**
+  - direkt in Bearbeitungsmodus
+  - dort auch löschbar
 
-**lang halten**
-- löschen
-- abschließen
-- beim löschen popup und nachfragen
+- **lang halten**
+  - löschen
+  - abschließen
+  - beim löschen popup und nachfragen
 
 
 
@@ -96,8 +97,8 @@ Titel, Coins(auf und ab), dealine(standartsortierung)
   - Geteilten
   -  Mitglieder
 
-**Habits**
-  -Titel
-  -Wie oft pro Woche
-  -Coins für einmalige Erledigung
-  -Coins wenn alle erledigt
+- **Habits**
+  - Titel
+  - Wie oft pro Woche
+  - Coins für einmalige Erledigung
+  - Coins wenn alle erledigt
