@@ -190,6 +190,7 @@ Every user should be able to utilize our App without instructions.
 - TBD
 #### 3.7.1 Development tools
 - For the development we use mostly IntelliJ IDE to implement our App
+- The app is beeing build with Gradle
 - For testing our choice is Cucumber with Espresso
 - GitHub is our Version control of choice
 - Our project management is done with YouTrack
