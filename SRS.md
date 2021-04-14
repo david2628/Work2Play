@@ -177,7 +177,7 @@ Every user should be able to utilize our App without instructions.
 ### 3.5 Performance
 - TBD
 #### 3.5.1 Response time
-- TBD 
+- TBD
 #### 3.5.2 Throughput
 - TBD
 #### 3.5.3 Capacity
@@ -189,7 +189,11 @@ Every user should be able to utilize our App without instructions.
 ### 3.7 Design Constraints
 - TBD
 #### 3.7.1 Development tools
-- TBD
+- For the development we use mostly IntelliJ IDE to implement our App
+- For testing our choice is Cucumber with Espresso
+- GitHub is our Version control of choice
+- Our project management is done with YouTrack
+- The Blog and Webpage are on Wordpress
 #### 3.7.2 Supported Platforms
 
 The App will only availible for Android.
