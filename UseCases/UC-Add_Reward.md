@@ -12,7 +12,7 @@ In this use case the User can add his own Rewards and credit them at his own jud
 ## 2.1 Basic Flow
 
 ### Activity Diagram
-![](ACs/AC_Add_Reward.png)
+![](PNGs/AC_Add_Reward.png)
 
 ### .feature File
 
