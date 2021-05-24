@@ -85,3 +85,4 @@ n/a
 [Class Diagram]: ../ClassDiagramms/Klassendiagramm2.png "Class Diagram"
 
 [databasemodel]: ./SAD/PNGs/database-model.png "ER-Modell"
+
