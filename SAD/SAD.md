@@ -78,10 +78,10 @@ n/a
 n/a
 
 
-[mvc]: https://github.com/david2628/Work2Play/blob/main/image.png "Model-View-Viewmodel"
+[mvc]: .PNGs/image.png "Model-View-Viewmodel"
 
-[oucd2]: https://github.com/david2628/Work2Play/blob/main/UCD.png "Overall Use Case Diagram Semester 2"
+[oucd2]: ./PNGs/UCD.png "Overall Use Case Diagram Semester 2"
 
-[Class Diagram]: https://github.com/david2628/Work2Play/blob/main/ClassDiagramms/Klassendiagramm2.png "Class Diagram"
+[Class Diagram]: ../ClassDiagramms/Klassendiagramm2.png "Class Diagram"
 
-[databasemodel]: https://github.com/david2628/Work2Play/blob/main/database-model.png "ER-Modell"
+[databasemodel]: ./SAD/PNGs/database-model.png "ER-Modell"
