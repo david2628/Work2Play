@@ -1,9 +1,9 @@
-# Use-Case Specification: Add Task
+# Use-Case Specification: Manipulate Task
 
-# 1. Add Task
+# 1. Manipulate Task
 
 ## 1.1 Brief Description
-This use case allows users to list all tasks, create tasks, edit tasks and delete tasks. So it describes the creation, reading, updating and deleting of Tasks (CRUD).
+This use case allows users to list all tasks, create, edit and delete tasks. So it describes the creation, reading, updating and deleting of Tasks (CRUD).
 
 
 
@@ -30,27 +30,22 @@ This use case allows users to list all tasks, create tasks, edit tasks and delet
 
 ### .feature File
 
-![.feature File](PNGs/ff_Create_Task.png)
+![.feature File](../FeatureFile/ff_Create_Task.png)
 
 
-## 2.2 Alternative Flows
-n/a
 
-# 3. Special Requirements
-n/a
-
-# 4. Preconditions
+# 3. Preconditions
 
 The app must be open.
 
-# 5. Postconditions
+# 4. Postconditions
 
-### 5.1 Create Task
+### 4.1 Create Task
 After a task is created the user automatically returns to the Task List and the new task appers.
-### 5.2 Edit Task
+### 4.2 Edit Task
 After editing a task the user automatically returns to the Task List and the updated task is shown.
-### 5.3 Delete Task
+### 4.3 Delete Task
 After deleting a task the user automatically returns to the Task List and the deleted is removed.
 
-# 6. Function Points
+# 5. Function Points
 n/a
