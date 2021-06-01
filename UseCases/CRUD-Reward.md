@@ -9,13 +9,11 @@ This use case allows users to list all rewards, create, edit and delete rewards.
 
 ## 1.2 Mockups
 ### Reward List
-![](PNGs/UC-Reward-List.png)
+![](PNGs/Reward-list.png)
 ### Create Rewards
-![](PNGs/UC-Add_Task.png)
-### Edit Rewards
-![](PNGs/UC-Edit_Task.png)
-### Delete Rewards
-![](PNGs/UC-Delete_Task.png)
+![](PNGs/Reward-create.png)
+### Edit/Delete Rewards
+![](PNGs/Reward-menu.png)
 
 
 
