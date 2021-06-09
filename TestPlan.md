@@ -75,10 +75,7 @@ The Test Plan should help us to gather all the information we need to plan our t
 
 ### 1.2 Scope
 
-TBD
-
-[Describe the levels of testing (for example, Unit, Integration, or System, and the types of testing (such as Functionality, Usability, Reliability, Performance, and Supportability) that will be addressed by this Test Plan. It is also important to provide a general indication of significant areas that will be excluded from scope, especially where the intended audience might otherwise reasonably assume the inclusion of those areas. 
-Note: Avoid placing detail here that you will repeat in sections 3, Target Test Items, and 4, Outline of Planned Tests.]
+In our testing we will have Unit and installation tests.
 
 ### 1.3 Intended Audience
 
@@ -117,7 +114,7 @@ n/a
 
 ### 2.1 Background
 
-Testting is used to ensure that written code does what we wanted it to do. It also helps to find existing faults in the code. 
+Testting is used to ensure that written code does what we wanted it to do. It also helps to find existing faults in the code.
 
 ### 2.2 Evaluation Mission
 
@@ -138,8 +135,8 @@ Testting is used to ensure that written code does what we wanted it to do. It al
 - fulfill process mandates
 
 ### 2.3 Test Motivators
-TBD
-[Provide an outline of the key elements that will motivate the testing effort in this iteration. Testing will be motivated by many things¾quality risks, technical risks, project risks, use cases, functional requirements, nonfunctional requirements, design elements, suspected failures or faults, change requests, and so forth.]
+
+Our testing is motivated through the fact that testing helps keeping the code running and realizing errors early. It also helps to see if your implementation is doing what the application is supposed to do.
 
 ## 3. Target Test Items
 
@@ -215,6 +212,7 @@ TBD
 n/a
 #### 5.2.4 User Interface Testing
 
+tbd
 [User Interface (UI) testing verifies a user's interaction with the software. The goal of UI testing is to ensure that the UI provides the user with the appropriate access and navigation through the functions of the target-of-test. In addition, UI testing ensures that the objects within the UI function as expected and conform to corporate, or industry, standards.]
 
 |                       | Description                                                         |
@@ -241,7 +239,7 @@ n/a
 
 #### 5.2.8 Volume Testing
 
-n/a 
+n/a
 
 #### 5.2.9 Security and Access Control Testing
 
@@ -256,7 +254,7 @@ n/a
 n/a
 
 #### 5.2.12 Installation Testing
- 
+
  tbd
 
 [Installation testing has two purposes. The first is to ensure that the software can be installed under different conditions (such as a new installation, an upgrade, and a complete or custom installation) under normal and abnormal conditions. Abnormal conditions include insufficient disk space, lack of privilege to create directories, and so on. The second purpose is to verify that, once installed, the software operates correctly. This usually means running a number of tests that were developed for Function Testing.]
@@ -310,6 +308,7 @@ n/a
 
 ## 7.2 Reporting on Test Coverage
 
+tbd
 [Provide a brief outline of both the form and content of the reports used to measure the extent of testing, and indicate how frequently they will be produced. Give an dication as to the method and tools used to record, measure, and report on the extent of testing.]
 
 ## 7.3 Perceived Quality Reports
@@ -318,6 +317,7 @@ n/a
 
 ## 7.4 Incident Logs and Change Requests
 
+TBD
 [Provide a brief outline of both the method and tools used to record, track, and manage test incidents, associated change requests, and their status.]
 
 ## 7.5 Smoke Test Suite and Supporting Test Scripts
@@ -345,6 +345,8 @@ n/a
 
 
 ## 8. Testing Workflow
+
+tbd
 
 [Provide an outline of the workflow to be followed by the test team in the development and execution of this Test Plan.
 The specific testing workflow that you will use should be documented separately in the project's Development Case. It should explain how the project has customized the base RUP test workflow (typically on a phase-by-phase basis). In most cases, we recommend you place a reference in this section of the Test Plan to the relevant section of the Development Case. It might be both useful and sufficient to simply include a diagram or image depicting your test workflow.
