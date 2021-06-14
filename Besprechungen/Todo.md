@@ -37,12 +37,12 @@
 ## Week 5
 
 - [ ] Jedes Feature File hat mehr als ein Scenario
-- [ ] Blog UseCase Links anpassen
+- [x] Blog UseCase Links anpassen
 - [ ] Feature Files Description hinzufügen
 - [ ] Screenshot von FeatureFiles in der IDE zum Blog hinzufügen
-- [ ] Video der Test in Blogpost einfügen
+- [x] Video der Test in Blogpost einfügen
 - [ ] Feature Files Test Daten einfügen
-- [ ] Ins Markdown kein Screenshot der Feature Files, sondern Text
+- [x] Ins Markdown kein Screenshot der Feature Files, sondern Text
 
 
 ## Week 6
