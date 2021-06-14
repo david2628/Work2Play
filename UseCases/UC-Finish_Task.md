@@ -3,7 +3,7 @@
 # 1. Buy Rewards
 
 ## 1.1 Brief Description
-This use case allows users to buy Rewards for their earned coins.
+This use case allows the user to finish a task and earn coins as a reward.
 
 ## 1.2 Mockup
 
