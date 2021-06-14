@@ -28,7 +28,7 @@
 
 ## Week 4
 
-- [ ] Blog auf Englisch stellen (z.B. Startseite, Über, ...)
+- [x] Blog auf Englisch stellen (z.B. Startseite, Über, ...)
 - [ ] Blog Links zu aktuellen UseCases anpassen
 - [ ] alle UseCases auf Grading Criteria prüfen
 
@@ -117,7 +117,7 @@
 
 ## Week 15
 
-- [ ] IntelliJs verbessern (Rechtschreibfehler)
+- [x] IntelliJs verbessern (Rechtschreibfehler)
 
 
 ## Week 16
