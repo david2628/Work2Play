@@ -1,4 +1,4 @@
-# Use-Case Specification: Manipulate Reward
+Habit# Use-Case Specification: Manipulate HABIT
 
 # 1. Manipulate Habit
 
@@ -8,12 +8,12 @@ This use case allows users to list all habits, create, edit and delete rewards. 
 
 
 ## 1.2 Mockups
-### Reward List
-![](PNGs/Reward-list.png)
-### Create Rewards
-![](PNGs/Reward-create.png)
-### Edit/Delete Rewards
-![](PNGs/Reward-menu.png)
+### Habit List
+![](PNGs/Habit-list.png)
+### Create Habits
+![](PNGs/Habit-create.png)
+### Edit/Delete Habits
+![](PNGs/Habit-menu.png)
 
 
 
@@ -26,17 +26,17 @@ This use case allows users to list all habits, create, edit and delete rewards. 
 ![Activity Diagram](PNGs/AC_Finish_Habit.png)
 
 ### .feature File
-
-[Rewards Feature File](https://github.com/rbnsch/Work2Play/blob/master/app/src/androidTest/assets/features/reward.feature)
+tbd
+[Habits Feature File](https://github.com/rbnsch/Work2Play/blob/master/app/src/androidTest/assets/features/reward.feature)
 
 ``` feature
-Feature: Reward(CRUD)
+Feature: Habit(CRUD)
   Background:
-    Given I am in Rewards tab
+    Given I am in Habits tab
 
-  Scenario Outline: Create Reward
+  Scenario Outline: Create Habit
     When I click on "+" button
-    And AddReward Screen is shown
+    And AddHabit Screen is shown
     And I set name for reward <reward>
     And I set amount of coins as cost <cost>
     And I select repeatable or not <repeatable>
@@ -50,7 +50,7 @@ Feature: Reward(CRUD)
       | watch one episode (1h)  | 20    | yes        |
       | Go to pub with Karl     | 85    | no         |
 
-  Scenario Outline: Delete Reward
+  Scenario Outline: Delete Habit
     And at least one reward is already created
     When I hold click on reward <reward>
     And I clock on "DELETE"
@@ -107,12 +107,12 @@ The app must be open.
 
 # 5. Postconditions
 
-### 5.1 Create Reward
-After a reward is created the user automatically returns to the Reward List and the new reward appers.
-### 5.2 Edit Reward
-After editing a reward the user automatically returns to the reward List and the updated reward is shown.
-### 5.3 Delete reward
-After deleting a reward the user automatically returns to the reward List and the deleted is removed.
+### 5.1 Create Habit
+After a habit is created the user automatically returns to the habit list and the new habit appers.
+### 5.2 Finishing Habit
+After editing a habit the user automatically returns to the habit list and the updated habit is shown.
+### 5.3 Delete Habit
+After deleting a habit the user automatically returns to the habit list and the deleted habit is removed.
 
 # 6. Function Points
 n/a
