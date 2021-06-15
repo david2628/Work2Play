@@ -6,9 +6,9 @@
 
 ## Week 2
 
-- [ ] Tech Stack im Blogpost verbessern
-- [ ] Link zu Githubs
-- [ ] Link zu YouTrack Issues List
+- [x] Tech Stack im Blogpost verbessern
+- [x] Link zu Githubs
+- [x] Link zu YouTrack Issues List
 
 
 
