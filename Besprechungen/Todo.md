@@ -50,7 +50,7 @@
 - [ ] Screenshot YouTrack in IDE einfügen in Blog
 - [ ] YouTrack in GitHub integrieren ????? (kp...)
 - [ ] Sprints in Elaboration, Construction, usw. umbenennen bzw zusammenführen
-- [ ] Bei allen Tasks estimated time einfügen
+- [x] Bei allen Tasks estimated time einfügen
 - [ ] Wenn möglich besser Bildqualität der Bilder im Blogpost
 - [ ] Tags für Zeiten nur für konkrete UseCases der App umändern
 
