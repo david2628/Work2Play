@@ -132,4 +132,4 @@
 
 - [ ] Final Blogpost vorbereiten
 - [ ] Dokument/Teil im Blog mit allen Peer Reviews
-- [ ] Berkling Fragen, wie Kommentare aus den 2 Wochen nachholen
+- [x] Berkling Fragen, wie Kommentare aus den 2 Wochen nachholen
