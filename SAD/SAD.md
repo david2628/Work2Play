@@ -32,7 +32,7 @@ This document provides a quick architectural overview of the system. It is inten
 This document describes the architecture of the Work2Play Project.
 
 ### 1.3 Definitions, Acronyms and Abbreviations
-|			Abbreviation									|	Explanation		|
+|			Abbreviation									                |	Explanation		|
 |---------------------------------------------------|---------------|
 | *** | *** |
 
@@ -85,4 +85,3 @@ n/a
 [Class Diagram]: ../ClassDiagramms/Klassendiagramm2.png "Class Diagram"
 
 [databasemodel]: ./SAD/PNGs/database-model.png "ER-Modell"
-
