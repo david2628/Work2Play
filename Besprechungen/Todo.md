@@ -57,7 +57,7 @@
 
 ## Week 7
 
-- [ ] Blog Titel einfügen
+- [x] Blog Titel einfügen
 - [ ] Datenbankschema hinzufügen
 - [ ] Altes generiertes Klassendiagramm einfügen
 - [ ] Schreiben, wie Klassendiagramm generiert wurde
@@ -69,7 +69,7 @@
 
 ## Week 8
 
-- [ ] Week 8 ist Software Architecture Document (Reihenfolge im Blog anpassen)
+- [x] Week 8 ist Software Architecture Document (Reihenfolge im Blog anpassen)
 - [ ] Framework (Android Studio) beschreiben
 - [ ] Generiert es CRUDs?
 - [ ] Video von Cucumber und Demo
@@ -77,12 +77,12 @@
 
 ## Week 9
 
-- [ ] Week 9 ist Retrospective
+- [x] Week 9 ist Retrospective
 
 
 ## Week 10
 
-- [ ] Week 10 ist Midterm
+- [x] Week 10 ist Midterm
 - [ ] Links anpassen
 
 
