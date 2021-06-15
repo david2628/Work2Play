@@ -26,68 +26,68 @@ This use case allows users to list all habits, create, edit and delete rewards. 
 ![Activity Diagram](PNGs/AC_Finish_Habit.png)
 
 ### .feature File
-tbd
-[Habits Feature File](https://github.com/rbnsch/Work2Play/blob/master/app/src/androidTest/assets/features/reward.feature)
+[Habits Feature File](https://github.com/rbnsch/Work2Play/blob/master/app/src/androidTest/assets/features/habit.feature)
 
 ``` feature
 Feature: Habit(CRUD)
   Background:
-    Given I am in Habits tab
+    Given I am in Habits Tab
 
   Scenario Outline: Create Habit
     When I click on "+" button
     And AddHabit Screen is shown
-    And I set name for reward <reward>
-    And I set amount of coins as cost <cost>
-    And I select repeatable or not <repeatable>
-    And I clock "SAVE" button
-    Then new reward is saved
-    And I am moved back to rewards tab
-    And new reward is shown
+    And I set name for Habit <habit>
+    And I set amount of Habit <countCompl>
+    And I set coins as reward for one part <singleCoins>
+    And I set coins as reward for completely finished habit <rewardCoins>
+    And I click "SAVE" button
+    Then new habit is saved
+    And I am moved back to habit tab
+    And new habit is shown
     Examples:
-      | reward                  | cost  | repeatable |
-      | watching a movie (2h30) | 50    | yes        |
-      | watch one episode (1h)  | 20    | yes        |
-      | Go to pub with Karl     | 85    | no         |
+      | habit | countCompl  | singleCoins | rewardCoins |
+      | Jogging | 4         | 10          | 15          |
+      | vacum   | 5         | 15          | 10          |
+      | cooking not ordering takeaway | 10 | 25 | 50 |
 
   Scenario Outline: Delete Habit
-    And at least one reward is already created
-    When I hold click on reward <reward>
-    And I clock on "DELETE"
+    And at least one habit is already created
+    When I hold click on habit <habit>
+    And I click "DELETE"
     Then reward is deleted
     Examples:
-      | reward |
-      | watching a movie (2h30) |
-      | Go to pub with Karl     |
-      | watch one episode (1h)  |
-      |                         |
+      | habit |
+      | jogging |
+      | vacum |
+      | cooking |
 
-  Scenario Outline: Buy repeatable reward
-    And at least one reward is already created
-    When I click on reward <reward>
-    And reward is repeatable <repeatable>
-    And I have more coins than it costs  <balance> <cost>
-    Then cost is substracted form balance
-    And I go back to rewards tab
+  Scenario Outline: Finish Habit completely
+    And at least one habit is already created
+    When I hold click on habit <habit>
+    And I click on "FINISH"
+    And habit has exactly one point left to completely finish <finishedcount> <countCompl>
+    Then reward for one part and for completely finishing are added to balance <singelCoin> <rewardCoins> <balance>
+    And counter is raised by 1 <finishedcount>
+    And I go back to Habits Tab
     Examples:
-      | reward                  | cost  | repeatable | balance |
-      | watching a movie (2h30) | 50    | yes        | 100     |
-      | watch one episode (1h)  | 20    | yes        | 5       |
-      | Go to pub with Karl     | 85    | no         | 90      |
+      | habit | finishedcount | countCompl | singelCoin | rewardCoins | balance |
+      | Jogging | 9           | 10         | 15         | 25          | 5       |
+      | vacum   | 5           | 6          | 15         | 10          | 0       |
+      | cooking not ordering takeaway | 9 | 10 | 25     | 50          | 75      |
 
-  Scenario Outline: Buy non repeatable reward
-    And at least one reward is already created
-    When I click on reward <reward>
-    And reward is not repeatable <repeatable>
-    And I have more coins than it costs  <balance> <cost>
-    Then cost is substracted form balance
-    And reward is deleted
-    And I go back to rewards tab
+  Scenario Outline: Finish Habit
+    And at least one habit is already created
+    When I hold click on habit <habit>
+    And I click on "FINISH"
+    And habit has more than one point left to completely finish <finishedcount> <countCompl>
+    Then reward for one part is added to balance <singelCoin> <balance>
+    And counter is raised by 1 <finishedcount>
+    And I go back to Habits Tab
     Examples:
-      | reward                  | cost  | repeatable | balance |
-      | watching a movie (2h30) | 50    | yes        | 100     |
-      | watch one episode (1h)  | 20    | yes        | 5       |
-      | Go to pub with Karl     | 85    | no         | 90      |
+      | habit | finishedcount | countCompl | singelCoin | balance |
+      | Jogging | 9           | 10         | 15         | 5       |
+      | vacum   | 2           | 6          | 15         | 0       |
+      | cooking not ordering takeaway | 6 | 10 | 25     | 75      |
 
 ```
 
