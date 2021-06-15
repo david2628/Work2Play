@@ -47,12 +47,12 @@
 
 ## Week 6
 
-- [ ] Screenshot YouTrack in IDE einfügen in Blog
+- [x] Screenshot YouTrack in IDE einfügen in Blog
 - [ ] YouTrack in GitHub integrieren ????? (kp...)
-- [ ] Sprints in Elaboration, Construction, usw. umbenennen bzw zusammenführen
+- [x] Sprints in Elaboration, Construction, usw. umbenennen bzw zusammenführen
 - [x] Bei allen Tasks estimated time einfügen
-- [ ] Wenn möglich besser Bildqualität der Bilder im Blogpost
-- [ ] Tags für Zeiten nur für konkrete UseCases der App umändern
+- [x] Wenn möglich besser Bildqualität der Bilder im Blogpost
+- [x] Tags für Zeiten nur für konkrete UseCases der App umändern
 
 
 ## Week 7
