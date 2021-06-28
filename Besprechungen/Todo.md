@@ -17,12 +17,12 @@
 - [ ] SRS nicht zutreffende Überschriften entfernen
 - [ ] SRS Development tools aktualisieren
 - [ ] UCD ins SRS einfügen
-- [ ] SRS überarbeiten in korektes UML (Kasten statt Ordner und Pfeile für Asszitionen)
-- [ ] UCD in alle Bubbles nur Verben
-- [ ] UCD 5 UseCases für bis Dezember farbig markieren
-- [ ] UCD Legende erstellen
-- [ ] UCD UseCases, für zweitets Semester farbig markieren
-- [ ] UCD restlichen UseCases da lassen, aber ohne Farbe
+- [x] UCD überarbeiten in korektes UML (Kasten statt Ordner und Pfeile für Asszitionen)
+- [x] UCD in alle Bubbles nur Verben
+- [x] UCD 5 UseCases für bis Dezember farbig markieren
+- [x] UCD Legende erstellen
+- [x] UCD UseCases, für zweitets Semester farbig markieren
+- [x] UCD restlichen UseCases da lassen, aber ohne Farbe
 
 
 
@@ -94,11 +94,11 @@
 
 ## Week 13
 
-- [ ] Alles Übrigen UseCases Function Points estimaten
-- [ ] Anhand der ausgerechneten FPs Zeit ermitteln
-- [ ] Beide als Punkte ins Diagramm einzeichnen mit Legende zum unterscheiden (so wie bei taskhub)
-- [ ] Excel restlichen UseCases einfügen
-- [ ] Am Ende des Semesters dann neues erstellen mit wirklich gebrauchten Zeiten und vergleichen
+- [x] Alles Übrigen UseCases Function Points estimaten
+- [x] Anhand der ausgerechneten FPs Zeit ermitteln
+- [x] Beide als Punkte ins Diagramm einzeichnen mit Legende zum unterscheiden (so wie bei taskhub)
+- [x] Excel restlichen UseCases einfügen
+- [x] Am Ende des Semesters dann neues erstellen mit wirklich gebrauchten Zeiten und vergleichen
 
 
 ## Week 14
