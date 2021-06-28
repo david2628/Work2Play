@@ -23,7 +23,7 @@ This use case allows users to list all habits, create, edit and delete rewards. 
 
 ### Activity Diagram
 
-![Activity Diagram](PNGs/AC_Finish_Habit.png)
+
 
 ### .feature File
 [Habits Feature File](https://github.com/rbnsch/Work2Play/blob/master/app/src/androidTest/assets/features/habit.feature)
