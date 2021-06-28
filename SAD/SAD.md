@@ -72,7 +72,9 @@ n/a
 ### 8.2 Layers
 n/a
 ## 9. Data View
-This is a representation of out database in a ER-Model. It displays the implementation of the model and shows relations between the objects.
+This is a representation of our SQLite database in a ER-Model. It displays the implementation of the model and shows relations between the objects.
+!.[databasemodel]
+
 ## 10. Size and Performance
 n/a
 ## 11. Quality
@@ -85,4 +87,4 @@ n/a
 
 [Class Diagram]: ../ClassDiagramms/Klassendiagramm2.png "Class Diagram"
 
-[databasemodel]: ./SAD/PNGs/database-model.png "ER-Modell"
+[databasemodel]: ./PNGs/database-model.png "ER-Modell"
