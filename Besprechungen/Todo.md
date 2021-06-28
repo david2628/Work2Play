@@ -58,13 +58,13 @@
 ## Week 7
 
 - [x] Blog Titel einfügen
-- [ ] Datenbankschema hinzufügen
-- [ ] Altes generiertes Klassendiagramm einfügen
-- [ ] Schreiben, wie Klassendiagramm generiert wurde
-- [ ] Link zum Klassendiagramm im Blog aktualisieren
-- [ ] Klassendiagramm und Datenbankschema in Architecture RUP
-- [ ] Architecture RUP verlinken
-- [ ] Klassendiagramm erklären
+- [x] Datenbankschema hinzufügen
+- [x] Altes generiertes Klassendiagramm einfügen
+- [x] Schreiben, wie Klassendiagramm generiert wurde
+- [x] Link zum Klassendiagramm im Blog aktualisieren
+- [x] Klassendiagramm und Datenbankschema in Architecture RUP
+- [x] Architecture RUP verlinken
+- [x] Klassendiagramm erklären
 
 
 ## Week 8
