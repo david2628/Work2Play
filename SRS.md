@@ -1,87 +1,8 @@
-# Work2Play-Together - Software Requirements Specification
-
-## Table of Contents
-
--   [Flashcard Community - Software Requirements Specification](#flashcard-community---software-requirements-specification)
-
-    -   [Table of Contents](#table-of-contents)
-
-    -   [1. Introduction](#1-introduction)
-
-        -   [1.1 Purpose](#11-purpose)
-        -   [1.2 Scope](#12-scope)
-        -   [1.3 Definitions, Acronyms and Abbreviations](#13-definitions-acronyms-and-abbreviations)
-        -   [1.4 References](#14-references)
-        -   [1.5 Overview](#15-overview)
-
-    -   [2. Overall Description](#2-overall-description)
-
-        -   [2.1 Vision](#21-vision)
-
-    -   [2.2 Product perspective](#22-product-perspective)
-
-        -   [2.3 User characteristics](#23-user-characteristics)
-        -   [2.4 Dependencies](#24-dependencies)
-
-    -   [3. Specific Requirements](#3-specific-requirements)
-
-        -   [3.1 Functionality – Data Backend](#31-functionality--data-backend)
-
-            -   [3.1.1 Create Task](#311-create-task)
-            -   [3.1.2 Create Identity](#312-create-identity)
-            -   [3.1.3 Share Task](#313-share-task)
-            -   [3.1.4 Create Group](#314-create-group)
-            -   [3.1.5 Buy Reward](#315-buy-reward)
-
-        -   [3.2 Functionality – User Interface](#32-functionality--user-interface)
-
-            -   [3.2.1 User system](#321-user-system)
-            -   [3.2.2 Statistics](#325-statistics)
-
-        -   [3.3 Usability](#33-usability)
-
-        -   [3.4 Reliability](#34-reliability)
-
-            -   [3.4.1 Availability](#341-availability)
-            -   [3.4.2 MTBF, MTTR](#342-mtbf-mttr)
-            -   [3.4.3 Accuracy](#343-accuracy)
-            -   [3.4.4 Bug classes](#344-bug-classes)
-
-        -   [3.5 Performance](#35-performance)
-
-            -   [3.5.1 Response time](#351-response-time)
-            -   [3.5.2 Throughput](#352-throughput)
-            -   [3.5.3 Capacity](#353-capacity)
-            -   [3.5.4 Resource utilization](#354-resource-utilization)
-
-        -   [3.6 Supportability](#36-supportability)
-
-        -   [3.7 Design Constraints](#37-design-constraints)
-
-            -   [3.7.1 Development tools](#371-development-tools)
-            -   [3.7.2 Supported Platforms](#374-supported-platforms)
-
-        -   [3.8 Online User Documentation and Help System Requirements](#38-online-user-documentation-and-help-system-requirements)
-
-        -   [3.9 Purchased Components](#39-purchased-components)
-
-        -   [3.10 Interfaces](#310-interfaces)
-
-            -   [3.10.1 User Interfaces](#3101-user-interfaces)
-            -   [3.10.2 Software Interfaces](#3103-software-interfaces)
-            -   [3.10.3 Communications Interfaces](#3104-communications-interfaces)
-
-        -   [3.11 Licensing Requirements](#311-licensing-requirements)
-
-        -   [3.12 Legal, Copyright and other Notices](#312-legal-copyright-and-other-notices)
-
-        -   [3.13 Applicable Standards](#313-applicable-standards)
-
-    -   [4. Supporting Information](#4-supporting-information)
+# Work2Play - Software Requirements Specification
 
 ## 1. Introduction
 ### 1.1 Purpose
-This SRS describes all specifications for **"Work2Gether"**. It will be an App for mobile usage. "Work2Play" allows
+This SRS describes all specifications for **"Work2Play"**. It will be an App for mobile usage. "Work2Play" allows
 users to manage their Tasks with ease and reward themselfes with freetime activities. Also they should be able to share their Tasks with roommates and other people.
 "Work2Play" will be explained. Furthermore reliability, reaction speed and other important
 characteristics of this project will be specified. This includes design and architectural decisions regarding optimization of
@@ -111,111 +32,97 @@ The document is designed for internal purposes only.
 | ----------------------------------------------------------------------------------------------------- | ---------- |
 | [Blog](https://work2playtogether.wordpress.com/blog/)                                                      | 21/10/2020 |
 | [GitHub](https://github.com/david2628/Work2Play/)                                                     | 21/10/2020 |
-| [Use Case Diagram](https://github.com/david2628/Work2Play/blob/main/Work2Play-UsecaseDiagram.svg) | 21/10/2020 |
+| [Use Cases](https://github.com/david2628/Work2Play/blob/main/UseCases) | 21/10/2020 |
+| [Test Plan](https://github.com/david2628/Work2Play/blob/main/TestPlan.md) | 10/06/2020 |
+| [Funktion Points](https://github.com/david2628/Work2Play/blob/main/Function_Points.xlsx) | 10/06/2020 |
+| [Risk Management](https://github.com/david2628/Work2Play/blob/main/risk_management.xlsx) | 10/06/2020 |
+| [SAD](https://github.com/david2628/Work2Play/blob/main/SAD/SAD.md) | 10/06/2020 |
+| [Demo Video](https://github.com/david2628/Work2Play/blob/main/demo_video.m4v) | 10/06/2020 |
+| [Testing Video](https://github.com/david2628/Work2Play/blob/main/cucumber_testing_video.mkv) | 10/06/2020 |
+| [App APK](https://github.com/david2628/Work2Play/blob/main/W2P.apk) | 10/06/2020 |
 
 ### 1.5 Overview
 The next chapters are about our vision, the product specifications and licensing.
 
-## 2. Overall Description
-
-### 2.1 Vision
+## 2. Vision
 With Work2Play you are able to create a To Do list to schedule tasks of your every day life. For each completed tasks you can earn credits. You can use these credits to reward yourself by „buying“ free time for activities you enjoy.
 
 If you have assignments with a deadline or repeating events you could plan them in a calendar and set a date and time to get an early reminder.
 
 In addition to that, it is possible to share tasks with your friends or roommates to work on projects simultaneously.
 
-## 2.2 Product perspective
+####The following picture shows our overall use case diagram:
 
-![](PNGs/UCD.png)
-
-### 2.3 User characteristics
-
-### 2.4 Dependencies
+![](SAD/PNGs/UCD.png)
 
 ## 3. Specific Requirements
-- TBD
-### 3.1 Functionality – Data Backend
--   TBD
-#### 3.1.1 Create Task
 
-Use-Case Specification:
-https://github.com/david2628/Work2Play/blob/main/UC-Create_Task_CRUD.md
+### 3.1 Functionality
 
-#### 3.1.2 Create identity
--   TBD
-#### 3.1.3 Share Task
-- TBD
-#### 3.1.4 Create Group
--TBD
-#### 3.1.5 buy reward
+#### 3.1.1 Tasks Tab
+On this tab, the user is able to create and delete tasks and set them to "done". These tasks can be individually configured and return coins by completion. The amount of coins can also be determined by the user himself, and they can be used to buy specific 
+rewards. The tasks are permanently locally stored on the app and can be set to repeat or to disappear after completion.
 
-Use-Case Specification:
-https://github.com/david2628/Work2Play/blob/main/UC-Buy_Rewards.md
+More on that you can find on these use case specifications:
+- [CRUD Task](https://github.com/david2628/Work2Play/blob/main/UseCases/CRUD-Task.md)
+- [Finish Task](https://github.com/david2628/Work2Play/blob/main/UseCases/UC-Finish_Task.md)
 
-### 3.2 Functionality – User Interface
-- TBD
-#### 3.2.1 User system
-- TBD
-#### 3.2.2 Statistics
-- TBD
+#### 3.1.2 Rewards Tab
+On this tab, the user is able to create, delete and buy rewards. Just like the tasks, the rewards can be designed individually in terms of contend of the rewards as well as the required coins to buy them. The are also locally stored on the app and can be set to repeatable or non- repeatable.
+
+More on that you can find on these use case specifications:
+- [CRUD Reward](https://github.com/david2628/Work2Play/blob/main/UseCases/CRUD-Reward.md)
+- [Buy Reward](https://github.com/david2628/Work2Play/blob/main/UseCases/UC-Buy_Rewards.md)
+
+#### 3.1.3 Habits Tab
+On this Tab, the user can create and delete habits and set them to "done". A habit is a task that has to be done one or more times a week. The user can set a coin reward for each time a habit is done and when the "goal-per-week" is reached. The currend progress is stored on the app and resets ervery new week.
+
+More on that you can find on these use case specifications:
+- [CRUD Habit](https://github.com/david2628/Work2Play/blob/main/UseCases/CRUD-Habit.md)
+- [Finish Habit](https://github.com/david2628/Work2Play/blob/main/UseCases/UC-Finish_Habit.md)
+
 ### 3.3 Usability
-
-We plan to design the user interface as simple and intuitive as possible.
+We plan to design the user interface as simple and intuitive as possible, so that it can be used very fast on the users mobile device.
 Every user should be able to utilize our App without instructions.
 
-### 3.4 Reliability
-- TBD
-#### 3.4.1 Availability
-- TBD
-#### 3.4.2 MTBF, MTTR
--TBD
-#### 3.4.3 Accuracy
-- TBD
-#### 3.4.4 Bug classes
-- TBD
-### 3.5 Performance
-- TBD
-#### 3.5.1 Response time
-- TBD
-#### 3.5.2 Throughput
-- TBD
-#### 3.5.3 Capacity
-- TBD
-#### 3.5.4 Resource utilization
-- TBD
-### 3.6 Supportability
-- TBD
-### 3.7 Design Constraints
-- TBD
-#### 3.7.1 Development tools
+### 3.4 Design Constraints
 - For the development we use mostly IntelliJ IDE to implement our App
 - The app is beeing build with Gradle
 - For testing our choice is Cucumber with Espresso
 - GitHub is our Version control of choice
 - Our project management is done with YouTrack
 - The Blog and Webpage are on Wordpress
-#### 3.7.2 Supported Platforms
+#### 3.4.1 Front End
+The main part of our app is written in Java and build with Gradle. As IDE we therefore use JetBrains IntelliJ IDEA with an Android development Plugin.
+
+#### 3.4.2 Database
+As for our Database, we use a SQLite Database
+
+#### 3.4.3 Testing
+The testing of our user interface is Implemented with Cucumber Feature Files and Gherkin and Android Espresso.
+
+Our unit tests run with JUnit and Mockito.
+
+#### 3.4.4 Code Quality
+To improve our code quality, we use:
+- Codacy
+- Sonarlint Plugin for IntelliJ
+- CodeMR Plugin for IntelliJ
+- MetricsReloaded Plugin for IntelliJ
+
+#### 3.4.4 Other used Tools and Software
+The Project management tool of our choice is Youtrack, we use GitHub as our version controll software, Wordpress for our Blog and Webpage and Discord as our primary tool for comunication.
+For sketches and models we use Draw.io, Balsamiq and PlantUML.
+
+
+### 3.5 Supported Platforms
 
 The App will only availible for Android.
 
 ### 3.8 Online User Documentation and Help System Requirements
-- TBD
-### 3.9 Purchased Components
-- TBD
-### 3.10 Interfaces
-- TBD
-#### 3.10.1 User Interfaces
-- TBD
-#### 3.10.2 Software Interfaces
-- TBD
-#### 3.10.4 Communications Interfaces
-- TBD
-### 3.11 Licensing Requirements
-- TBD
-### 3.12 Legal, Copyright and other Notices
-- TBD
-### 3.13 Applicable Standards
-- TBD
+
+As mentioned in the chapter: Usability, the app should be intuitive to use, so we see no point in some kind of tutorial.
+
+
 ## 4. Supporting Information
-- TBD
+ Supporting information on Work2Play can be found on our SAD, the use case definitions and all the other files on this repository, which are linked in the beginning of this document, as well as our Blog, which is also referenced there.
