@@ -44,7 +44,7 @@ The architectural details will be described in the following sections. This incl
 ## 2. Architectural Representation
 We are developing a App that is designed for Android so a normal MVC representation is good.
 
-![PNGs/Arcitechture-Diagramm.png]
+![Arcitechture-Diagramm.png]
 
 ## 3. Architectural Goals and Constraints
 TBD.
