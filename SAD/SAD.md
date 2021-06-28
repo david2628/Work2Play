@@ -59,7 +59,7 @@ TBD.
 n/a
 ### 5.2 Architecturally Significant Design Packages
 The class diagram; containing all Data Access Objects, Models and Controllers that we will need to finish for the basic functionality:
-
+![PNGs/ClassDiagrammwArchritecture.png]
 ![Class Diagram]
 
 ### 5.3 Pattern
