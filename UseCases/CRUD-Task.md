@@ -25,7 +25,6 @@ This use case allows users to list all tasks, create, edit and delete tasks. So 
 ### Activity Diagram
 
 ![Activity Diagram](PNGs/AC_Add_Task.png)
-![](PNGs/AC_Delete_Task.png)
 
 ### .feature File
 
