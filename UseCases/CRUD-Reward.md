@@ -24,6 +24,7 @@ This use case allows users to list all rewards, create, edit and delete rewards.
 ### Activity Diagram
 
 ![Activity Diagram](PNGs/AC_Add_Reward.png)
+![](PNGs/AC_Delete_Reward.png)
 
 ### .feature File
 
