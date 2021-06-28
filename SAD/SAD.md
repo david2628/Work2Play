@@ -44,7 +44,7 @@ The architectural details will be described in the following sections. This incl
 ## 2. Architectural Representation
 We are developing a App that is designed for Android so a normal MVC representation is good.
 
-![Arcitechture-Diagramm.png]
+![mvc]
 
 ## 3. Architectural Goals and Constraints
 TBD.
@@ -78,7 +78,7 @@ n/a
 n/a
 
 
-[mvc]: .PNGs/image.png "Model-View-Viewmodel"
+[mvc]: .PNGs/Arcitechture-Diagramm.png "Model-View-Viewmodel"
 
 [oucd2]: ./PNGs/UCD.png "Overall Use Case Diagram Semester 2"
 
