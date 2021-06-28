@@ -86,6 +86,6 @@ n/a
 
 [oucd2]: ./PNGs/UCD.png "Overall Use Case Diagram Semester 2"
 
-[Class Diagram]: ./PNGs/ClassDiagramm (2).png "Class Diagram"
+[Class Diagram]: ./PNGs/ClassDiagramm.png "Class Diagram"
 
 [databasemodel]: ./PNGs/database-model.png "ER-Modell"
