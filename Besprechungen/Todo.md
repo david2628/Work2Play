@@ -48,7 +48,6 @@
 ## Week 6
 
 - [x] Screenshot YouTrack in IDE einfügen in Blog
-- [ ] YouTrack in GitHub integrieren ????? (kp...)
 - [x] Sprints in Elaboration, Construction, usw. umbenennen bzw zusammenführen
 - [x] Bei allen Tasks estimated time einfügen
 - [x] Wenn möglich besser Bildqualität der Bilder im Blogpost
@@ -83,7 +82,6 @@
 ## Week 10
 
 - [x] Week 10 ist Midterm
-- [ ] Links anpassen
 
 
 ## Week 11
@@ -130,6 +128,5 @@
 
 ## Sonstiges
 
-- [ ] Final Blogpost vorbereiten
-- [ ] Dokument/Teil im Blog mit allen Peer Reviews
+- [x] Final Blogpost vorbereiten
 - [x] Berkling Fragen, wie Kommentare aus den 2 Wochen nachholen
