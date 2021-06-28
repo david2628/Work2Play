@@ -18,8 +18,10 @@ This use case allows users to list all rewards, create, edit and delete rewards.
 
 
 # 2. Flow of Events
+![](PNGs/diagramm-reward.png)
 
 ## 2.1 Basic Flow
+
 
 ### Activity Diagram
 

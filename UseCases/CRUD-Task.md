@@ -19,6 +19,7 @@ This use case allows users to list all tasks, create, edit and delete tasks. So 
 
 
 # 2. Flow of Events
+![](PNGs/diagramm-tasks.png)
 
 ## 2.1 Basic Flow
 

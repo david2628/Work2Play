@@ -18,6 +18,7 @@ This use case allows users to list all habits, create, edit and delete rewards. 
 
 
 # 2. Flow of Events
+![](PNGs/diagramm-habits.png)
 
 ## 2.1 Basic Flow
 
