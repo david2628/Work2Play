@@ -65,7 +65,10 @@ The class diagram; containing all Data Access Objects, Models and Controllers th
 ![Class Diagram]
 
 ### 5.3 Pattern
-TBD
+Here you can see a Stategy Pattern we used to organize our code. We highlighted the afected classes in red.
+
+![Pattern](PNGs/CD_Pattern_after-edit.png)
+
 ## 7. Deployment View
 n/a
 ## 8. Implementation View
