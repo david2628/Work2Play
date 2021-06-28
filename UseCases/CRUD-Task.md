@@ -31,64 +31,43 @@ This use case allows users to list all tasks, create, edit and delete tasks. So 
 [Task Feature File](https://github.com/rbnsch/Work2Play/blob/master/app/src/androidTest/assets/features/task.feature)
 
 ``` feature
-Feature: Reward(CRUD)
+Feature: Task(CRUD)
+  This feature file is a CRUD and tests the creation and deletion of tasks.
+
   Background:
-    Given I am in Rewards tab
+    Given I am in the Tasks tab
 
-  Scenario Outline: Create Reward
-    When I click on "+" button
-    And AddReward Screen is shown
-    And I set name for reward <reward>
-    And I set amount of coins as cost <cost>
+  Scenario Outline: Create Task
+    When I click on the "+" button
+    And AddTask screen is shown
+    And I set name for task <task>
+    And I set amount of coins as rewards <coins>
+    And I set date <date>
     And I select repeatable or not <repeatable>
-    And I clock "SAVE" button
-    Then new reward is saved
-    And I am moved back to rewards tab
-    And new reward is shown
+    And I select project <project>
+    And I click the  "SAVE" button
+    Then new task is saved
+    And I am moved back to Tasks tab
+    And new Task is shown
     Examples:
-      | reward                  | cost  | repeatable |
-      | watching a movie (2h30) | 50    | yes        |
-      | watch one episode (1h)  | 20    | yes        |
-      | Go to pub with Karl     | 85    | no         |
+      | task                | coins | date      | repeatable | project |
+      | finish CV           | 25    | 20.06.21  | no         | job     |
+      | clean room          | 10    | 04.09.22  | yes        | home    |
+      | bring car to garage | 15    | 05.08.21  | no         | car     |
 
-  Scenario Outline: Delete Reward
-    And at least one reward is already created
-    When I hold click on reward <reward>
-    And I clock on "DELETE"
-    Then reward is deleted
+  Scenario Outline: Delete Task
+    And at least one Task is already created
+    When I hold click on a task <task>
+    And I presses the "DELETE" button
+    Then Task is deleted
+    And menu disappears
     Examples:
-      | reward |
-      | watching a movie (2h30) |
-      | Go to pub with Karl     |
-      | watch one episode (1h)  |
-      |                         |
+      | task |
+      | finish CV           |
+      | clean room          |
+      | bring car to garage |
 
-  Scenario Outline: Buy repeatable reward
-    And at least one reward is already created
-    When I click on reward <reward>
-    And reward is repeatable <repeatable>
-    And I have more coins than it costs  <balance> <cost>
-    Then cost is substracted form balance
-    And I go back to rewards tab
-    Examples:
-      | reward                  | cost  | repeatable | balance |
-      | watching a movie (2h30) | 50    | yes        | 100     |
-      | watch one episode (1h)  | 20    | yes        | 5       |
-      | Go to pub with Karl     | 85    | no         | 90      |
 
-  Scenario Outline: Buy non repeatable reward
-    And at least one reward is already created
-    When I click on reward <reward>
-    And reward is not repeatable <repeatable>
-    And I have more coins than it costs  <balance> <cost>
-    Then cost is substracted form balance
-    And reward is deleted
-    And I go back to rewards tab
-    Examples:
-      | reward                  | cost  | repeatable | balance |
-      | watching a movie (2h30) | 50    | yes        | 100     |
-      | watch one episode (1h)  | 20    | yes        | 5       |
-      | Go to pub with Karl     | 85    | no         | 90      |
 ```
 
 
