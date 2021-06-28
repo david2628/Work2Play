@@ -70,9 +70,9 @@
 ## Week 8
 
 - [x] Week 8 ist Software Architecture Document (Reihenfolge im Blog anpassen)
-- [ ] Framework (Android Studio) beschreiben
-- [ ] Generiert es CRUDs?
-- [ ] Video von Cucumber und Demo
+- [x] Framework (Android Studio) beschreiben
+- [x] Generiert es CRUDs?
+- [x] Video von Cucumber und Demo
 
 
 ## Week 9
