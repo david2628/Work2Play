@@ -78,7 +78,7 @@ n/a
 n/a
 
 
-[mvc]: .PNGs/Arcitechture-Diagramm.png "Model-View-Viewmodel"
+[mvc]: ./PNGs/Arcitechture-Diagramm.png "Model-View-Viewmodel"
 
 [oucd2]: ./PNGs/UCD.png "Overall Use Case Diagram Semester 2"
 
