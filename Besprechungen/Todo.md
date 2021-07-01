@@ -14,9 +14,9 @@
 
 ## Week 3
 
-- [ ] SRS nicht zutreffende Überschriften entfernen
-- [ ] SRS Development tools aktualisieren
-- [ ] UCD ins SRS einfügen
+- [x] SRS nicht zutreffende Überschriften entfernen
+- [x] SRS Development tools aktualisieren
+- [x] UCD ins SRS einfügen
 - [x] UCD überarbeiten in korektes UML (Kasten statt Ordner und Pfeile für Asszitionen)
 - [x] UCD in alle Bubbles nur Verben
 - [x] UCD 5 UseCases für bis Dezember farbig markieren
@@ -120,9 +120,9 @@
 
 ## Week 16
 
-- [ ] Pattern im Klassendiagramm markieren und zum SAD hinzufügen
+- [x] Pattern im Klassendiagramm markieren und zum SAD hinzufügen
 - [X] Code davor und danach verlinken
-- [ ] schauen wie man aus Blog Posts pdf machen kann
+- [x] schauen wie man aus Blog Posts pdf machen kann
 - [X] genauer beschreiben, warum keine Patterns in Zukunft mehr verwenden
 
 
