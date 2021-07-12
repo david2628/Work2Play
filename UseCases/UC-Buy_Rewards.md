@@ -8,7 +8,7 @@ This use case allows users to buy Rewards for their earned coins.
 ## 1.2 Mockup
 
 ### Buy Reward
-![](PNGs/UC_ADD_H_ss.png)
+![](PNGs/UC_CRUD_R_POP_ss.png)
 
 # 2. Flow of Events
 
