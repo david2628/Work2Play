@@ -7,7 +7,7 @@ This use case allows users to finish a habit and earn coins as a reward.
 
 ## 1.2 Mockup
 
-![](PNGs/UC_CRUD_T_POP_ss.png)
+![](PNGs/UC_CRUD_H_POP_ss.png)
 
 
 # 2. Flow of Events
